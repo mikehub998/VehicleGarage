@@ -1,0 +1,9 @@
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java36 - id:1 first name:jordan surname:harrison
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java46 - Please enter a first name:
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java48 - Please enter a surname:
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java51 - Customer created:
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java78 - Please enter the id of the customer you would like to delete
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java60 - Please enter the id of the customer you would like to update
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java62 - Please enter a first name:
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java64 - Please enter a surname:
+20231003 11:55:32 INFO  [main] controller.CustomerController CustomerController.java67 - Customer Updated:
