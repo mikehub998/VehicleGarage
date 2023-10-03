@@ -11,6 +11,7 @@ public class Runner {
 		GarageSystem garageSystem = new GarageSystem();
 		garageSystem.garageSystemMenu();
 		LOGGER.info("SO LONG!");
+		
 	}
 
 }
